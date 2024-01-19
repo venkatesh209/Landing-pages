@@ -1,0 +1,39 @@
+// Typeface
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300;400&family=Source+Sans+Pro:wght@200;400;600;700&display=swap');
+
+@font-face {
+    font-family: 'source sans pro';
+    src: url(../../assets/fonts/SourceSansPro-ExtraLight.ttf) format(truetype);
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: 'source sans pro';
+    src: url(../../assets/fonts/SourceSansPro-Regular.ttf) format(truetype);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'source sans pro';
+    src: url(../../assets/fonts/SourceSansPro-SemiBold.ttf) format(truetype);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'source sans pro';
+    src: url(../../assets/fonts/SourceSansPro-Bold.ttf) format(truetype);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'barlow semi condensed';
+    src: url(../../assets/fonts/BarlowSemiCondensed-Light.ttf) format(truetype);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'barlow semi condensed';
+    src: url(../../assets/fonts/BarlowSemiCondensed-Regular.ttf) format(truetype);
+    font-weight: 400;
+}
